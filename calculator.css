@@ -1,0 +1,27 @@
+body{
+    margin:  0px ;
+    padding:  0px ;
+    /*background-color: #005da0;
+    /*color: #005da0;*/
+    text-align: center;
+    background-image: url(istockphoto.webp);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 90vh;
+}
+h1{
+    color: white;
+    font: size 45px;
+}
+input{
+    width: 75px;
+    height:50px ;
+    font-size: 25px;
+    border-radius: 10px;
+    margin: 10px;
+}
+.btn:hover{
+    background-color: rgb(255, 252, 87);
+    cursor: pointer;
+}
